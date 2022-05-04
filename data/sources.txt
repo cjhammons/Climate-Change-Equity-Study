@@ -1,0 +1,7 @@
+emissions data
+https://www.kaggle.com/datasets/kkhandekar/co2-emissions-1960-2018
+https://data.worldbank.org/indicator/EN.ATM.CO2E.PC
+
+temperature Data
+https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data
+https://berkeleyearth.org/data/
